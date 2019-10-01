@@ -5,4 +5,4 @@ My solution: Body, NBody, TestBody files.
 
 To download the template files and to get started go [here](https://github.com/Berkeley-CS61B/skeleton-sp19/tree/master/proj0)
 
-## All rights reserved to respective owners.
+## All rights reserved to their respective owners.
